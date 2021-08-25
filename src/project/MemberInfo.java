@@ -23,7 +23,7 @@ public class MemberInfo {
     }
     //메뉴 출력 메소드
     public char display() {
-        System.out.println("1.로그인   2.가  입   3. 로그아웃  4.종료");
+        System.out.println("1. 로그인   2. 가  입   3. 로그아웃  4. 종료");
         System.out.print(">>>");
         return input().charAt(0);
     }
