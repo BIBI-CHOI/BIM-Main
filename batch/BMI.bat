@@ -1,3 +1,3 @@
 cd ..
-java -cp bin project.BMI
+java -cp bin project.MemberLogin
 pause>nul
